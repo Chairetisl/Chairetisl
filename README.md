@@ -1,6 +1,6 @@
 # Hi there, I'm Chairetis Lykourgos 👋
 
-I'm a passionate Data Scientist and Machine Learning Engineer with a deep interest in leveraging data to solve real-world problems, particularly in the energy sector. My expertise lies in Python programming, machine learning algorithms, data analysis, and statistical analysis.
+I'm a passionate Data Scientist with a deep interest in leveraging data to solve real-world problems, particularly in the energy sector. My expertise lies in Python programming, machine learning algorithms, data analysis, and statistical analysis.
 
 ## 🔧 Technologies & Tools
 
