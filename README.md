@@ -9,7 +9,7 @@ I'm a passionate Data Scientist with a deep interest in leveraging data to solve
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn
 - **Statistical Analysis**: SciPy, StatsModels
 - **Databases**: MySQL
-- **Tools & Platforms**: Jupyter Notebook, RStudio, Git, VS Code
+- **Tools & Platforms**: Jupyter Notebook, Git, VS Code
 
 ## 🚀 Projects
 
